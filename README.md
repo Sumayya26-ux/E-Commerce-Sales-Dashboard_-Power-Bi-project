@@ -20,3 +20,4 @@ Share the dashboard via Power Bi Service with managers and sales team
 Schedule automatic refresh for daily updates
 
 6.Screenshots
+Snapshot of the Dashboard: https://github.com/Sumayya26-ux/E-Commerce-Sales-Dashboard_-Power-Bi-project/blob/main/Snapshot%20of%20the%20Dashboard%20(2).png
